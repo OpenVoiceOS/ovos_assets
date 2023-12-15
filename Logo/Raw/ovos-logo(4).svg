@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<svg width="660.14513" height="512.16773" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+
+ <metadata id="metadata38">image/svg+xml</metadata>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="layer1" transform="translate(-111.92777,411.25231)">
+   <path d="m298.51,-132.54a147.16,238.11 0 0 0 145.87,208.91a147.16,238.11 0 0 0 145.11,-200.23l-93.87,4.38l-69.11,49.59l-128,-62.65z" fill="#000000" id="path179" opacity="0.9" stroke="#ffffff" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-width="0"/>
+   <path d="m442,-401.65c-75.47,0 -102.51,119.32 -136.66,239.81c-2.41,8.75 0.46,18.13 1.21,27.12l118.86,58.18l64.17,-46.06l87.17,-4.06c1.21,-11.62 5.16,-23.84 1.91,-35.18c-34.96,-119.68 -61.19,-239.81 -136.66,-239.81z" fill="#000000" id="ellipse195" opacity="0.9" stroke="#ffffff" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-width="0"/>
+   <path d="m340.74,-46.26c0,0 11.71,42.25 25.29,58.64c11.81,14.24 46,31.05 46,31.05c0,0 -30.21,-18.77 -41.4,-32.2c-13.82,-16.59 -29.89,-57.49 -29.89,-57.49z" fill="#ffffff" id="path1144" stroke="#000000" stroke-width="1px"/>
+  </g>
+  <g fill="#ffffff" id="layer3" stroke-width="1.61" transform="matrix(0.621744, 0, 0, 0.621744, 114.918, 277.737)"/>
+  <g fill="#ffffff" id="g1337" stroke-width="0.63" transform="matrix(1.57774, 0, 0, 1.57774, 33.9477, 179.685)">
+   <circle cx="150.36" cy="53.38" fill="#ffffff" id="circle1281" opacity="0.9" r="32.5" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-width="5.7"/>
+   <text fill="#000000" font-family="sans-serif" font-size="40px" font-style="normal" font-weight="normal" id="text1289" letter-spacing="0px" stroke-width="0.63" word-spacing="0px" x="130.97" xml:space="preserve" y="70.54">
+    <tspan fill="#000000" font-size="64px" id="tspan1287" stroke-width="0.63" x="130.97" y="70.54">o</tspan>
+   </text>
+  </g>
+  <g fill="#ffffff" id="g1332" stroke-width="0.63" transform="matrix(1, 0, 0, 1, 0, 0) matrix(1.57774, 0, 0, 1.57774, -76.3497, 289.515)">
+   <circle cx="260.55" cy="-43.36" fill="#ffffff" id="path1222" opacity="0.9" r="32.5" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-width="5.7"/>
+   <text fill="#000000" font-family="sans-serif" font-size="40px" font-style="normal" font-weight="normal" id="text1301" letter-spacing="0px" stroke-width="0.63" word-spacing="0px" x="244.3" xml:space="preserve" y="-26.21">
+    <tspan fill="#000000" font-size="64px" id="tspan1299" stroke-width="0.63" x="244.3" y="-26.21">v</tspan>
+   </text>
+  </g>
+  <g fill="#ffffff" id="g1342" stroke-width="0.63" transform="matrix(1, 0, 0, 1, 0, 0) matrix(1.57774, 0, 0, 1.57774, -200.317, 341.502)">
+   <circle cx="367.86" cy="-36.13" fill="#ffffff" id="circle1283" opacity="0.9" r="32.5" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-width="5.7"/>
+   <text fill="#000000" font-family="sans-serif" font-size="40px" font-style="normal" font-weight="normal" id="text1289-2" letter-spacing="0px" stroke-width="0.63" word-spacing="0px" x="348.47" xml:space="preserve" y="-18.98">
+    <tspan fill="#000000" font-size="64px" id="tspan1287-6" stroke-width="0.63" x="348.47" y="-18.98">o</tspan>
+   </text>
+  </g>
+  <g fill="#ffffff" id="g1327" stroke-width="0.63" transform="matrix(1.57774, 0, 0, 1.57774, -89.4919, 234.159)">
+   <circle cx="255.49" cy="63.98" fill="#ffffff" id="circle1285" opacity="0.9" r="32.5" stroke-linejoin="bevel" stroke-miterlimit="4" stroke-width="5.7"/>
+   <text fill="#000000" font-family="sans-serif" font-size="40px" font-style="normal" font-weight="normal" id="text1293" letter-spacing="0px" stroke-width="0.63" word-spacing="0px" x="237.8" xml:space="preserve" y="86.82">
+    <tspan fill="#000000" font-size="64px" id="tspan1291" stroke-width="0.63" x="237.8" y="86.82">S</tspan>
+    <tspan fill="#000000" font-size="64px" id="tspan1295" stroke-width="0.63" x="237.8" y="144.99"/>
+   </text>
+  </g>
+ </g>
+</svg>
